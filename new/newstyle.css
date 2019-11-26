@@ -1,0 +1,14 @@
+
+.bgimage{
+	background-image: url('images/m.jpg');
+	background-position: center; background-size: cover; height: 300px;
+}
+.services{
+	text-align: center-right; 
+}
+.icon{
+	height: 35px; 
+}
+.logo{
+	color: white; text-align: center-left;
+}

@@ -1,0 +1,34 @@
+charset = "UTF-8";
+
+body {
+  font: 14px/26px 'Bungee', Helvetica, Arial, sans-serif;
+  color: #222;
+  margin: 0px;
+  padding: 0px;
+  text-transform: uppercase;
+}
+
+
+.bgimage{
+	background-image: url('../images/m.jpg');
+	background-position: center; background-size: cover; height: 200px;
+}
+.jumbo{
+				height: 500px; 
+				width: 650px;
+				border: 2px solid black;				
+				background-color: #E1695F;
+				position: relative;
+				padding: 20px 20px 100px 20px;
+			}
+			.ima{
+				align: middle;
+				position: relative;
+				left: 50px;
+				top: 60px;
+			}
+			#mySelect{
+				 padding: 7px 0;
+				 text-align: right;
+
+			}
